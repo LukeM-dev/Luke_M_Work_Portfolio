@@ -30,8 +30,8 @@ TABLE_NAMES = [
 ]
 
 ENVIRON_TABLE_LOCATION_MAPPING = {
-    '21999191': 'Outdoors – Courtyard Door Overhang',
-    '21611332': 'Tub Room 2041',
+    '21611332': 'Outdoors – Courtyard Door Overhang',
+    '21999191': 'Tub Room 2041',
     '21611333': 'Hallway 600 on Linen room door frame',
     '21611336': 'Resident Room 605 on Bathroom door frame',
     '21611334': 'Crawlspace - 900 Below occupied wing',
