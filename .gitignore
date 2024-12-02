@@ -163,3 +163,4 @@ cython_debug/
 
 # CSV files
 .csv
+/python_crime_analysis/data
